@@ -1,1 +1,22 @@
-/* Holiii otra vez */
+*{
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.navbar-default{
+	background-color: transparent;
+	border-color: transparent;
+
+}
+
+.fa-search{
+	margin-left: 30%;
+	color: red;
+}
+
+.imagen3{
+	margin-top: 20px;
+}
+
+.imagen4{
+	margin-top: 20px;
+}
